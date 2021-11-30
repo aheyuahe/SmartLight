@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.aheyuahe.smartlight.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.aheyuahe.smartlight.MyBundle
 
 class MyApplicationService {
 
